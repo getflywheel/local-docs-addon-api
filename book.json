@@ -1,6 +1,9 @@
 {
     // Links in template (null: default, false: remove, string: new value)
     "links": {
+       "sidebar": {
+            "Support": "https://pressmatic.io/support"
+        }
         // Link to home in the top-left corner
         "home": null,
 
