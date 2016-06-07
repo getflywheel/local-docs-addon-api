@@ -2,5 +2,5 @@
 
 * [Overview](README.md)
    * [Installing Addons](installing_addons.md)
-* New chapter
+* [New chapter](new_chapter.md)
 
