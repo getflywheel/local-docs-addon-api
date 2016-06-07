@@ -3,9 +3,6 @@
        "sidebar": {
             "Support": "https://pressmatic.io/support"
         },
-        "home": null,
-        "about": false,
-        "issues": false,
-        "contribute": false
+        "home": false
     }
 }
