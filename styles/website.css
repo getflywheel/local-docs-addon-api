@@ -1,6 +1,6 @@
 /* CSS for website */
 .gitbook-link {
-  display: none;
+  display: none !important;
 }
 
 .custom-link[href="https://www.gitbook.com/book/pressmatic/addon-api"] {
