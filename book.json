@@ -1,9 +1,5 @@
 {
     "links": {
-      "home": false,
-       "about": false,
-       "sidebar": {
-            "Support": "https://pressmatic.io/support"
-        }
+       "sidebar": false
     }
 }
