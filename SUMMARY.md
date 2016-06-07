@@ -1,5 +1,5 @@
 # Summary
 
 * [Overview](README.md)
-   * Installing Addons
+   * [Installing Addons](installing_addons.md)
 
