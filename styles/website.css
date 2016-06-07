@@ -4,5 +4,5 @@
 }
 
 .custom-link[href="https://www.gitbook.com/book/pressmatic/addon-api"] {
-  display: none;
+  display: none !important;
 }
