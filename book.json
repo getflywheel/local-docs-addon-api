@@ -1,7 +1,0 @@
-{
-    "plugins": [
-        "-customheader",
-        "-special-sections"
-    ],
-    "pluginsConfig": {}
-}
