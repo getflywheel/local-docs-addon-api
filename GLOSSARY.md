@@ -1,6 +1,6 @@
 # Glossary
 
-## NPM
+## npm
 
 Node.js Package Manager
 
