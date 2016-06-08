@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](README.md)
-   * Addon Manifest
+   * [Addon Manifest](addon_manifest.md)
    * [Renderer Process](renderer_process.md)
    * [Main Process](main_process.md)
 
