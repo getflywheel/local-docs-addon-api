@@ -7,7 +7,7 @@
 * [Context](context/README.md)
    * [environment](context/context/environment.md)
    * [hooks](context/hooks.md)
-   * [Electron](context/context/electron.md)
+   * [electron](context/context/electron.md)
    * [File System](context/context/file_system.md)
    * [Notifier](context/context/notifier.md)
    * [Process](context/context/process.md)
