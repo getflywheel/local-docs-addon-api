@@ -5,7 +5,6 @@
    * [Renderer Process](overview/renderer_process.md)
    * [Main Process](overview/main_process.md)
 * [Context](context/README.md)
-   * [docker](context/docker.md)
 * [References](references/README.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
    * [Using React.js](references/using_reactjs.md)
