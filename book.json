@@ -4,5 +4,8 @@
       "Contact Us": "https://pressmatic.io/contact",
       "Contribute To This Guide": "https://github.com/pressmatic/docs-addon-api"
     }
-  }
+  },
+  "pluginsConfig": {
+        "share": {}
+    }
 }
