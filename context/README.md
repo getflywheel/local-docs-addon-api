@@ -37,6 +37,6 @@ Exposes Node.js [process](https://nodejs.org/api/process.html) object.
 
 contet.jQuery exposes [jQuery](http://api.jquery.com/) 2.2.3.
 
-## context.react
+## context.React
 
 ## context.docker
