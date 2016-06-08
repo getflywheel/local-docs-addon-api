@@ -13,7 +13,7 @@
    * [process](context/process.md)
    * [jQuery](context/jquery.md)
    * [react](context/react.md)
-   * [docker](context/context/docker.md)
+   * [docker](context/docker.md)
 * [References](references/README.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
    * [Using React.js](references/using_reactjs.md)
