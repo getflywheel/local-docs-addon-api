@@ -19,15 +19,15 @@ With the Electron API you can create dialogs, open new windows, and more.
 
 ## ```context.fileSystem```
 
-[fs-extra](https://www.npmjs.com/package/fs-extra) NPM package which extends the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
+[fs-extra](https://www.npmjs.com/package/fs-extra) npm package which extends the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
 
 ## ```context.fileSystemJetpack```
 
-[fs-jetpack](https://www.npmjs.com/package/fs-jetpack) NPM package. Some may prefer it over the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
+[fs-jetpack](https://www.npmjs.com/package/fs-jetpack) npm package. Some may prefer it over the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
 
 ## ```context.notifier```
 
-[node-notifier](https://www.npmjs.com/package/node-notifier) NPM package. The main method in this class is ```notify```.
+[node-notifier](https://www.npmjs.com/package/node-notifier) npm package. The main method in this class is ```notify```.
 
 #### Example
 
