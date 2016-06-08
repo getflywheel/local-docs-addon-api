@@ -7,6 +7,6 @@
     },
     "pluginsConfig": {},
     "plugins": [
-        "ace"
+        "-ace"
     ]
 }
