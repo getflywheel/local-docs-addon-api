@@ -11,7 +11,7 @@
    * [fileSystem](context/file_system.md)
    * [notifier](context/notifier.md)
    * [process](context/process.md)
-   * [jQuery](context/context/jquery.md)
+   * [jQuery](context/jquery.md)
    * [react](context/context/react.md)
    * [docker](context/context/docker.md)
 * [References](references/README.md)
