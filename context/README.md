@@ -56,3 +56,15 @@ Node.js [process](https://nodejs.org/api/process.html) object.
 For more information about React in Pressmatic addons please see [Using React.js](references/using_reactjs.md).
 
 ## ```context.docker```
+
+Use ```context.docker``` to run Docker commands.
+
+#### Example (ES6, needs transpiled to ES5)
+
+```js
+context.docker(`start ${container}`).then(stdout => {
+    //Success
+}).catch(({stdout, stderr}) => {
+    //Something bad happened
+});
+```
