@@ -7,6 +7,7 @@
   },
   "pluginsConfig": {
         "sharing": {
+            "all": false,
             "facebook": false,
             "twitter": false
         }
