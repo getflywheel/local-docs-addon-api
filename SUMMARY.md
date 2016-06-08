@@ -6,7 +6,7 @@
    * [Main Process](overview/main_process.md)
 * [Context](context/README.md)
    * [environment](context/context/environment.md)
-   * [Hooks](context/hooks.md)
+   * [hooks](context/hooks.md)
    * [Electron](context/context/electron.md)
    * [File System](context/context/file_system.md)
    * [Notifier](context/context/notifier.md)
