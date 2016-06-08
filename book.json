@@ -6,6 +6,6 @@
     }
   },
   "pluginsConfig": {
-        "share": {}
+        "sharing": {}
     }
 }
