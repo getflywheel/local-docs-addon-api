@@ -5,5 +5,5 @@
    * [Renderer Process](renderer_process.md)
    * [Main Process](main_process.md)
 * [References](references.md)
-   * Transpiling ES6/JSX
+   * [Transpiling ES6/JSX](transpiling_es6jsx.md)
 
