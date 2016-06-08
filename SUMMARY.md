@@ -2,6 +2,6 @@
 
 * [Overview](README.md)
    * Addon Manifest
-   * Renderer Process
+   * [Renderer Process](renderer_process.md)
    * Main Process
 
