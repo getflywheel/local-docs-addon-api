@@ -7,7 +7,6 @@ This guide is intended to get you up-and-running with the Pressmatic Addon API. 
 
 ### [package.json](addon_manifest.md)
 
-
 The ```package.json``` file is a format for describing Node.js modules. Pressmatic addons are built on top of Node.js modules.
 
 You must define ```main``` and/or ```renderer``` entry-points.
