@@ -5,7 +5,6 @@
    * [Renderer Process](overview/renderer_process.md)
    * [Main Process](overview/main_process.md)
 * [Context](context/README.md)
-   * [process](context/process.md)
    * [jQuery](context/jquery.md)
    * [react](context/react.md)
    * [docker](context/docker.md)
