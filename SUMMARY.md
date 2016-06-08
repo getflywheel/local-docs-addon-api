@@ -9,7 +9,7 @@
    * [Hooks](context/hooks.md)
    * [Electron](context/context/electron.md)
    * [File System](context/context/file_system.md)
-   * Notifier
+   * [Notifier](context/context/notifier.md)
    * Process
    * jQuery
    * React
