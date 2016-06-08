@@ -3,4 +3,5 @@
 * [Overview](README.md)
    * Addon Manifest
    * Renderer Process
+   * Main Process
 
