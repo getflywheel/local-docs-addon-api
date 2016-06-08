@@ -8,5 +8,5 @@
 * [References](references/README.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
    * [Using React.js](references/using_reactjs.md)
-   * Hooks
+   * [Hooks](references/hooks.md)
 
