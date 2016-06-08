@@ -20,6 +20,8 @@ Exposes the [fs-jetpack](https://www.npmjs.com/package/fs-jetpack) NPM module. S
 
 ## context.process
 
+Exposes Node.js [process](https://nodejs.org/api/process.html) object.
+
 ## context.jQuery
 
 contet.jQuery exposes [jQuery](http://api.jquery.com/) 2.2.3.
