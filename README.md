@@ -9,11 +9,17 @@ This guide is intended to get you up-and-running with the Pressmatic Addon API. 
 
 The ```package.json``` file is a format for describing Node.js modules. Pressmatic addons are built on top of Node.js modules.
 
-You must define ```main``` and/or ```renderer``` entry-points.
+You must define a ```renderer``` and/or ```main``` entry-point.
 
-### Main Process Entry Point
+### [Renderer Process Entry Point](overview/renderer_process.md)
 
-### Renderer Process Entry Point
+The renderer process is what runs inside the main window. This is where you will add buttons, forms, and any other user interface elements.
+
+Most addons will exclusively use the renderer process entry point for the sake of simplicity.
+
+### [Main Process Entry Point](overview/main_process.md)
+
+By tapping into the main process you can run processes even when the window is closed but Pressmatic is still running.
 
 ## Contribute to this documentation
 
