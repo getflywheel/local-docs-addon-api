@@ -6,5 +6,5 @@
    * [Main Process](main_process.md)
 * [References](references.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
-   * [Using React.js](using_reactjs.md)
+   * [Using React.js](references/using_reactjs.md)
 
