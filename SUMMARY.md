@@ -10,7 +10,7 @@
    * [electron](context/context/electron.md)
    * [fileSystem](context/context/file_system.md)
    * [notifier](context/context/notifier.md)
-   * [Process](context/context/process.md)
+   * [process](context/context/process.md)
    * [jQuery](context/context/jquery.md)
    * [React](context/context/react.md)
    * [Docker](context/context/docker.md)
