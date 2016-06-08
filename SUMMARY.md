@@ -14,6 +14,7 @@
    * [jQuery](context/jquery.md)
    * [react](context/react.md)
    * [docker](context/docker.md)
+   * fileSystemJetpack
 * [References](references/README.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
    * [Using React.js](references/using_reactjs.md)
