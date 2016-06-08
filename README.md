@@ -16,3 +16,7 @@ You must define ```main``` and/or ```renderer``` entry-points.
 ### Main Process Entry Point
 
 ### Renderer Process Entry Point
+
+## Contribute to this documentation
+
+You can contribute to improve this documentation on [GitHub](https://github.com/pressmatic/docs-addon-api) by opening issues or creating pull requests.
