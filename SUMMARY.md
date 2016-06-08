@@ -1,5 +1,5 @@
 # Summary
 
 * [Overview](README.md)
-   * Structure
+   * Addon Manifest
 
