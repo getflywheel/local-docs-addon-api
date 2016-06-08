@@ -11,6 +11,8 @@ Includes the following properties:
 
 ## ```context.hooks```
 
+Use context.hooks to run actions at certain times. Hooks are especially useful when adding in element with ```context.React```.
+
 ## ```context.electron```
 
 Exposes [Electron API](http://electron.atom.io/docs/api/). The available methods and classes will differ based on whether or not this is ran from the main process or renderer process.
