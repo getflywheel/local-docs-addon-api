@@ -4,5 +4,5 @@
    * [Addon Manifest](addon_manifest.md)
    * [Renderer Process](renderer_process.md)
    * [Main Process](main_process.md)
-* References
+* [References](references.md)
 
