@@ -7,6 +7,7 @@
     },
     "pluginsConfig": {},
     "plugins": [
-        "anchors"
+        "anchors",
+        "gist"
     ]
 }
