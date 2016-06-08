@@ -1,5 +1,14 @@
 ## ```context.environment```
 
+Exposes the following properties.
+
+* **appPath:** Path to running Pressmatic.app
+* **userHome:** Path to current user home directory
+* **phpVersion:** Available PHP versions in Pressmatic
+* **version:** Pressmatic version
+* **dockerPath:** Path to Docker binary in Pressmatic.app
+* **userDataPath:** Path to Pressmatic user data folder. On Mac OS X this defaults to ~/Library/Application Support/Pressmatic
+
 ## ```context.hooks```
 
 ## ```context.electron```
