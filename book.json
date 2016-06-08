@@ -6,7 +6,5 @@
         }
     },
     "pluginsConfig": {},
-    "plugins": [
-        "-ace"
-    ]
+    "plugins": []
 }
