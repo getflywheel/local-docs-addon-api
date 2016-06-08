@@ -30,14 +30,15 @@ context.notifier.notify({
 ```
 
 ## ```context.process```
-
 Exposes Node.js [process](https://nodejs.org/api/process.html) object.
 
 ## ```context.jQuery```
+**Renderer Only**
 
 ```context.jQuery``` exposes [jQuery](http://api.jquery.com/) 2.2.3.
 
 ## ```context.React```
+**Renderer Only**
 
 ```context.React``` to required to use JSX in your renderer entry point. You can also use context.React to access React's [Top-Level API](http://facebook.github.io/react/docs/top-level-api.html).
 
