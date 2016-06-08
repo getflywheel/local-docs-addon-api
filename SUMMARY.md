@@ -8,7 +8,7 @@
    * [environment](context/environment.md)
    * [hooks](context/hooks.md)
    * [electron](context/electron.md)
-   * [fileSystem](context/context/file_system.md)
+   * [fileSystem](context/file_system.md)
    * [notifier](context/context/notifier.md)
    * [process](context/context/process.md)
    * [jQuery](context/context/jquery.md)
