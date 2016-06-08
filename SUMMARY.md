@@ -5,7 +5,7 @@
    * [Renderer Process](overview/renderer_process.md)
    * [Main Process](overview/main_process.md)
 * [Context](context/README.md)
-   * [environment](context/context/environment.md)
+   * [environment](context/environment.md)
    * [hooks](context/hooks.md)
    * [electron](context/context/electron.md)
    * [fileSystem](context/context/file_system.md)
