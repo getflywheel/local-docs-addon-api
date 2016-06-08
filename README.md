@@ -5,7 +5,6 @@ This guide is intended to get you up-and-running with the Pressmatic Addon API. 
 
 ## Structure
 
-
 ### [package.json](addon_manifest.md)
 
 
