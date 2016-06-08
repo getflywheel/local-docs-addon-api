@@ -1,6 +1,6 @@
 ## ```context.environment```
 
-Exposes the following properties.
+Includes the following properties:
 
 * **appPath:** Path to running Pressmatic.app
 * **userHome:** Path to current user home directory
@@ -19,15 +19,15 @@ With the Electron API you can create dialogs, open new windows, and more.
 
 ## ```context.fileSystem```
 
-Exposes [fs-extra](https://www.npmjs.com/package/fs-extra) NPM package which ends the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
+[fs-extra](https://www.npmjs.com/package/fs-extra) NPM package which extends the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
 
 ## ```context.fileSystemJetpack```
 
-Exposes the [fs-jetpack](https://www.npmjs.com/package/fs-jetpack) NPM package. Some may prefer it over the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
+[fs-jetpack](https://www.npmjs.com/package/fs-jetpack) NPM package. Some may prefer it over the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
 
 ## ```context.notifier```
 
-Exposes [node-notifier](https://www.npmjs.com/package/node-notifier) NPM package. The main method in this class is ```notify```.
+[node-notifier](https://www.npmjs.com/package/node-notifier) NPM package. The main method in this class is ```notify```.
 
 #### Example
 
@@ -39,12 +39,12 @@ context.notifier.notify({
 ```
 
 ## ```context.process```
-Exposes Node.js [process](https://nodejs.org/api/process.html) object.
+Node.js [process](https://nodejs.org/api/process.html) object.
 
 ## ```context.jQuery```
 **Renderer Only**
 
-```context.jQuery``` exposes [jQuery](http://api.jquery.com/) 2.2.3.
+[jQuery](http://api.jquery.com/) 2.2.3.
 
 ## ```context.React```
 **Renderer Only**
