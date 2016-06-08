@@ -12,7 +12,7 @@
    * [notifier](context/context/notifier.md)
    * [process](context/context/process.md)
    * [jQuery](context/context/jquery.md)
-   * [React](context/context/react.md)
+   * [react](context/context/react.md)
    * [Docker](context/context/docker.md)
 * [References](references/README.md)
    * [Transpiling ES6/JSX](references/transpiling.md)
