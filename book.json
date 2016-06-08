@@ -1,7 +1,8 @@
 {
   "links": {
     "sidebar": {
-      "Support": "https://pressmatic.io/support"
+      "Support": "https://pressmatic.io/support",
+      "Contribute": "https://github.com/pressmatic/docs-addon-api"
     }
   }
 }
