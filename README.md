@@ -21,6 +21,6 @@ Most addons will exclusively use the renderer process entry point for the sake o
 
 By tapping into the main process you can run processes even when the window is closed but Pressmatic is still running.
 
-## Contribute to this documentation
+## Contribute To This Guide
 
 You can contribute to improve this documentation on [GitHub](https://github.com/pressmatic/docs-addon-api) by opening issues or creating pull requests.
