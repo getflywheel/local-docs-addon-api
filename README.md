@@ -5,7 +5,7 @@ This guide is intended to get you up-and-running with the Pressmatic Addon API. 
 
 ## Structure
 
-### [package.json](addon_manifest.md)
+### [package.json](overview/addon_manifest.md)
 
 The ```package.json``` file is a format for describing Node.js modules. Pressmatic addons are built on top of Node.js modules.
 
