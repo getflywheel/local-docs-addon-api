@@ -7,7 +7,6 @@
     },
     "pluginsConfig": {},
     "plugins": [
-        "anchor-navigation",
         "anchors"
     ]
 }
