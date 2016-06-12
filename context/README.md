@@ -46,7 +46,7 @@ Node.js [process](https://nodejs.org/api/process.html) object.
 ## ```context.jQuery```
 **Renderer Only**
 
-[jQuery](http://api.jquery.com/) 2.2.3.
+[jQuery](http://api.jquery.com/) 3.0.x
 
 ## ```context.React```
 **Renderer Only**
