@@ -19,6 +19,10 @@ Exposes [Electron API](http://electron.atom.io/docs/api/). The available methods
 
 With the Electron API you can create dialogs, open new windows, and more.
 
+## ```context.request```
+
+[request](https://www.npmjs.com/package/request) npm package which makes it very easy to send HTTP/HTTPS requests.
+
 ## ```context.fileSystem```
 
 [fs-extra](https://www.npmjs.com/package/fs-extra) npm package which extends the native [fs API](https://nodejs.org/api/fs.html) in Node.js.
