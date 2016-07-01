@@ -9,5 +9,5 @@
    * [Transpiling ES6/JSX](references/transpiling.md)
    * [Using React.js](references/using_reactjs.md)
    * [Hooks](references/hooks.md)
-   * Paths
+   * [Paths](references/paths.md)
 
