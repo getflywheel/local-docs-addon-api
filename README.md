@@ -1,13 +1,13 @@
-# Pressmatic Addon API
+# Local Add-on API
 
-This guide is intended to get you up-and-running with the Pressmatic Addon API. Pressmatic addon's are written primarily in JavaScript and are modeled after Node.js packages.
+This guide is intended to get you up-and-running with the Local Add-on API. Local add-on's are written primarily in JavaScript and are modeled after Node.js packages.
 
 
 ## Structure
 
 ### [package.json](overview/addon_manifest.md)
 
-The ```package.json``` file is a format for describing Node.js modules. Pressmatic addons are built on top of Node.js modules.
+The ```package.json``` file is a format for describing Node.js modules. Local add-ons are built on top of Node.js modules.
 
 You must define a ```renderer``` and/or ```main``` entry-point.
 
@@ -15,11 +15,11 @@ You must define a ```renderer``` and/or ```main``` entry-point.
 
 The renderer process is what runs inside the main window. This is where you will add buttons, forms, and any other user interface elements.
 
-Most addons will exclusively use the renderer process entry point for the sake of simplicity.
+Most add-ons will exclusively use the renderer process entry point for the sake of simplicity.
 
 ### [Main Process Entry Point](overview/main_process.md)
 
-By tapping into the main process you can run processes even when the window is closed but Pressmatic is still running.
+By tapping into the main process you can run processes even when the window is closed but Local is still running.
 
 ## Contribute To This Guide
 
